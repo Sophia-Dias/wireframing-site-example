@@ -1,0 +1,13 @@
+.main-description {
+    color: #FFF;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.main-description.-gray {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.main-description.-black {
+    color: #000;
+}

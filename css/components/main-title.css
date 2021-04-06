@@ -1,0 +1,28 @@
+.main-title {
+    font-size: 56px;
+    line-height: 66px;
+    font-weight: 500;
+    margin-bottom: 56px;
+}
+
+.main-title.-small {
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom: 32px;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+}
+
+.main-title.-small.-second {
+    text-align: start;
+    color: #FFF;
+    line-height: 37px;
+    padding-bottom: 24px;
+}
+
+.main-title.-black {
+    color: #000;
+    text-align: start;
+}

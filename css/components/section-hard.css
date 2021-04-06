@@ -1,0 +1,59 @@
+.section-hard {
+    padding: 80px 135px;
+}
+
+.section-hard .wrapper {
+    display: flex;
+}
+
+.section-hard .divImage {
+    background-color: #222222;
+    width: 240px;
+    height: 247px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    padding-left: 90px;
+    padding-right: 68px;
+}
+
+.section-hard .divText {
+    color: #FFF;
+    background-color: #000;
+    width: 100%;
+    padding: 52px 200px;
+    padding-left: 80px;
+}
+
+.section-hard .divText .nameAutor {
+    font-size: 14px;
+}
+
+.section-hard .divText .title {
+    font-size: 48px;
+    width: 500px;
+    margin-top: 16px;
+    margin-bottom: 80px;
+}
+.section-hard .itens {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-hard .itens .title {
+    font-size: 24px;
+    line-height: 34px;
+    margin-bottom: 16px;
+}
+
+.section-hard .itens .description {
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 16px;
+}
+
+.section-hard .itens .right, .section-hard .itens .left {
+    width: 470px;
+    background-color: #F2F2F2;
+    padding: 50px 48px;
+    margin-top: 40px;
+}

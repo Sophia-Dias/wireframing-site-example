@@ -1,0 +1,17 @@
+.main-subtitle {
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 40px;
+}
+
+.main-subtitle.-second {
+    font-size: 18px;
+    color: #FFF;
+    line-height: 25px;
+    padding-bottom: 28px;
+}
+
+.main-subtitle.-black {
+    color: #000;
+}

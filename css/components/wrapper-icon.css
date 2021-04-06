@@ -1,0 +1,13 @@
+.wrapper-icon {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper-icon .icon {
+    padding-right: 40px;
+    padding-bottom: 30px;
+}
+
+.wrapper-icon .icon:last-child {
+    padding-right: 0px;
+}

@@ -1,0 +1,65 @@
+.main-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-section .image {
+    box-sizing: content-box;
+    height: 247px;
+    width: 400px;
+    border: 1px solid #000;
+    margin-top: 90px;
+    margin-right: 115px;
+    padding-top: 115px;
+    padding-bottom: 120px;
+    padding-right: 250px;
+    padding-left: 130px;
+}
+
+.main-section.-bgGray {
+    background-color: #CACACA;
+    display: block;
+}
+
+.main-section.-bgDarkGray {
+    background-color: #333333;
+}
+
+.main-section.-bgDarkGray .image {
+    height: 160px;
+    width: 240px;
+    background-color: #000;
+    padding-top: 55px;
+    padding-right: 80px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    box-shadow: 90px -50px 0 #FFF;
+    margin-top: 210px;
+    margin-right: 270px;
+    margin-bottom: 150px;
+}
+
+.main-section.-bgGray.-second .image{
+    width: 400px;
+    height: 247px;
+    border: none;
+    padding: 0;
+    margin-top: 210px;
+    margin-left: 200px;
+    margin-bottom: 170px;
+    margin-bottom: 0;
+}
+
+.main-section.-bgGray.-second {
+    display: flex;
+}
+
+.main-section .image.-rectangle {
+    width: 400px;
+    height: 233px;
+    border: none;
+    padding: 0;
+    margin-top: 250px;
+    margin-right: 300px;
+    box-shadow: 90px -50px 0 #F2F2F2;
+}

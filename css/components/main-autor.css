@@ -1,0 +1,23 @@
+.main-autor {
+    display: flex;
+    color: #FFF;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.main-autor::before {
+    content: "";
+    background-color: #FFF;
+    width: 24px;
+    height: 24px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.main-autor.-black {
+    color: #000;
+}
+
+.main-autor.-black::before {
+    background-color: #000;
+}

@@ -1,0 +1,35 @@
+.testimonion-section {
+    display: block;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    padding-right: 230px;
+    padding-left: 230px;
+}
+
+.testimonion-section .wrapper {
+    text-align: center;
+    width: 1000px;
+}
+
+.testimonion-section .title {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.testimonion-section .circle::before {
+    content: "";
+    display: inline-block;
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    margin-bottom: 15px;
+}
+
+.testimonion-section .autor {
+    font-size: 14px;
+    line-height: 19px;
+}

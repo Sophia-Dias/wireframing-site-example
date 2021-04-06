@@ -1,0 +1,25 @@
+.center-section {
+    display: flex;
+    justify-content: center;
+    padding: 130px 500px;
+    background-color: #F2F2F2;
+}
+
+.center-section .wrapper {
+    width: 420px;
+    text-align: center;
+}
+
+.center-section .title {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.center-section .subtitle {
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: normal;
+    margin-bottom: 45px;
+}

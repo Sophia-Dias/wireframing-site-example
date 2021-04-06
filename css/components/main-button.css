@@ -1,0 +1,17 @@
+.main-button {
+    text-decoration: none;
+    vertical-align: bottom;
+    color: #000;
+    font-size: 18px;
+    line-height: 28px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 12px 36px;
+    font-weight: normal;
+}
+
+.main-button.-second {
+    background-color: #000;
+    color: #FFF;
+}
